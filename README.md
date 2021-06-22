@@ -84,12 +84,6 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 
 
 
-
-
-
-
-
-
 Materials by [Garret Christensen](https://www.ocf.berkeley.edu/~garret/dlab/index.html) and [Chris Kennedy](http://ck37.com).
 
 * Updated December 2017 by [Isabelle Cohen](http://dlab.berkeley.edu/people/isabelle-cohen), [Jackie Ferguson](https://dlab.berkeley.edu/people/jackie-ferguson), and [Saika Belal](https://dlab.berkeley.edu/people/saika-belal).
@@ -121,5 +115,9 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 
 # Contributors
 
+* Evan Muzzall
+
+* [Garret Christensen](https://dlab.berkeley.edu/people/garret-christensen)
+* [Chris Kennedy](https://dlab.berkeley.edu/people/chris-kennedy)
 
 
