@@ -39,6 +39,7 @@ In preparation for the upcoming workshop you will need to install Stata and down
 To download the installation materials, please visit [https://download.stata.com](https://download.stata.com) with the following credentials:
 
 > Username:  1619703290
+
 > Password:  1ig8bmIN
 
 For assistance with installation, you may view the Stata installation
@@ -51,10 +52,15 @@ If you currently have Stata installed, you do not need to reinstall Stata. Howev
 Please do not share this license and note that the license is a trial and will expire later next month.
 
 > Licensed software: Stata/MP 17 (2 cores)
+
 > License type: 60-user Network
+
 > License term: Expires 05/19/2021
+
 > Serial number: 501709309494
+
 > Code: 7v9L x$zp bzL0 gxbm y4ce gja2 vi4i u5fo y5ew a
+
 > Authorization: $vqk
 
 ### 2) Download the workshop materials
