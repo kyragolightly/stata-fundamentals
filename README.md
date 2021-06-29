@@ -83,12 +83,6 @@ If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's Dat
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this [Binder button](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master). By using this button, you cannot save your work. 
 
 
-
-Materials by [Garret Christensen](https://www.ocf.berkeley.edu/~garret/dlab/index.html) and [Chris Kennedy](http://ck37.com).
-
-* Updated December 2017 by [Isabelle Cohen](http://dlab.berkeley.edu/people/isabelle-cohen), [Jackie Ferguson](https://dlab.berkeley.edu/people/jackie-ferguson), and [Saika Belal](https://dlab.berkeley.edu/people/saika-belal).
-* Updated January 2021 by [Hero Ashman](https://dlab.berkeley.edu/people/hero-ashman) and Isabelle Cohen
-
 # Resources
 
 ### Stata book recommendations (Stata Press)
@@ -115,9 +109,11 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 
 # Contributors
 
-* Evan Muzzall
-
+* [Evan Muzzall](https://dlab.berkeley.edu/people/evan-muzzall)
+* [Isabelle Cohen](http://dlab.berkeley.edu/people/isabelle-cohen)
+* [Jackie Ferguson](https://dlab.berkeley.edu/people/jackie-ferguson)
+* [Saika Belal](https://dlab.berkeley.edu/people/saika-belal)
 * [Garret Christensen](https://dlab.berkeley.edu/people/garret-christensen)
 * [Chris Kennedy](https://dlab.berkeley.edu/people/chris-kennedy)
-
+* [Isabelle Cohen](https://dlab.berkeley.edu/people/isabelle-cohen)
 
