@@ -115,5 +115,3 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 * [Saika Belal](https://dlab.berkeley.edu/people/saika-belal)
 * [Garret Christensen](https://dlab.berkeley.edu/people/garret-christensen)
 * [Chris Kennedy](https://dlab.berkeley.edu/people/chris-kennedy)
-* [Isabelle Cohen](https://dlab.berkeley.edu/people/isabelle-cohen)
-
